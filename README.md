@@ -16,7 +16,7 @@ say hi on my [linkedin](https://linkedin.com/in/faiyajrahman)!
 `C/C++` `STM32` `FPGA` `Verilog` `CAN` `Altium` `Rapsberry Pi`
 
 **`💻 software dev & fullstack`**
-`TypeScript` `React` `Node.js` `PostgreSQL` `Python` `AWS` `Docker` `Kubernetes`
+`TypeScript` `React` `ML` `AI` `Node.js` `PostgreSQL` `Python` `AWS` `Docker` `Kubernetes`
 
 **`🛠️ other things and what not`**
 `Claude` `Codex` `Cursor` `Git` `Linux` `Bash` `CI/CD`
