@@ -1,4 +1,4 @@
-![Header]()
+![Header](https://github.com/faiyajr/faiyajr/blob/main/linkedin%20banner.jpg)
 
 engineer who loves ~prompting claude~ agentic ai
 
