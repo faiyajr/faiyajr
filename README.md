@@ -4,7 +4,7 @@ i love ~prompting claude~ agentic ai's
 
 ---
 
-hey everyone, i'm faiyaj — computer engineering student @ umich. software engineering intern @ bosch & co-founder and software engineer for Saf. when i'm not debugging software, i'm lifting heavy metal circles, playing football (it's not soccer chat), or running through lobbies in fortnite 🤪.
+hey everyone, i'm faiyaj — computer engineering student @ umich. software engineering intern @ bosch & co-founder and software engineer for Saf. when i'm not debugging software, i'm lifting heavy metal circles, playing football (it's not soccer), or running through lobbies in games 🤪.
 
 say hi on my [linkedin](https://linkedin.com/in/faiyajrahman)!
 
