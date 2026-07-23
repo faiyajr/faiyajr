@@ -1,4 +1,4 @@
-![Header](https://github.com/faiyajr/faiyajr/blob/main/faiyaj%20linkedin%20banner.png)
+![Header](https://github.com/faiyajr/faiyajr/blob/main/faiyaj_linkedin_banner.png)
 
 i love ~prompting claude~ agentic ai's
 
